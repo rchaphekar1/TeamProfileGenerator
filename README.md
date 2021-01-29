@@ -2,9 +2,9 @@
 
 ![License](https://img.shields.io/npm/l/inquirer)
 
-![Team Profile Generator]("TeamProfileGenerator.png")
+![TeamProfileGenerator](https://user-images.githubusercontent.com/46513647/106217966-f9944100-619b-11eb-88f9-3b6061fcb360.png)
 
-<a href="https://drive.google.com/file/d/1AdlVM_H2K8VsnFsM0goz7H_uyh6z0y-v/view?usp=sharing">Link to Video Demonstration</a>
+<a href="https://drive.google.com/file/d/1AdlVM_H2K8VsnFsM0goz7H_uyh6z0y-v/view?usp=sharing" target="_blank">Link to Video Demonstration</a>
 
 <hr>
 
